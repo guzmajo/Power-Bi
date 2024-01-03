@@ -1,8 +1,8 @@
 # 📊 Dashboard de Visualización de Datos con Power BI
 
-¡Bienvenido al repositorio del Dashboard interactivo creado en Power BI! 🚀
+Dashboard interactivo creado en Power BI 🚀
 
-![Dashboard](https://github.com/guzmajo/PowerBi/blob/main/dashboard%20Merx.pdf)
+![Dashboard](https://github.com/guzmajo/Power-Bi/blob/main/descarga%20(1).png)
 
 ## Enlace al Reporte Interactivo
 
