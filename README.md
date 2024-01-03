@@ -2,7 +2,13 @@
 
 ¡Bienvenido al repositorio del Dashboard interactivo creado en Power BI! 🚀
 
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/6/63/PowerBI_logo.svg)
+![Dashboard](https://github.com/guzmajo/PowerBi/blob/main/dashboard%20Merx.pdf)
+
+## Enlace al Reporte Interactivo
+
+Puedes acceder al reporte interactivo haciendo clic en el siguiente enlace:
+
+[Ver Reporte Interactivo](https://app.powerbi.com/view?r=eyJrIjoiYWUyZjFhY2YtZGRjNy00ZTYxLWFiMDQtNmNhNDQ3OWNkZjU3IiwidCI6IjJlYzk4MWZiLTkyODMtNDNhMC05YTM5LTMzMzJmYzU0ZDc3NCIsImMiOjR9)
 
 ## 📝 Descripción del Conjunto de Datos
 
